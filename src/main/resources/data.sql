@@ -1,0 +1,11 @@
+INSERT INTO BOOK(author, name, pages) VALUES ('JK-Rowling', 'HARRY POTTER', 30);
+INSERT INTO BOOK(author, name, pages) VALUES ('George R.R. Martin', 'A Game of Thrones', 35);
+INSERT INTO BOOK(author, name, pages) VALUES ('Suzanne Collins', 'The Hunger Games', 25);
+INSERT INTO BOOK(author, name, pages) VALUES ('Jane Austen', 'Pride and Prejudice', 20);
+INSERT INTO BOOK(author, name, pages) VALUES ('Stephen King', 'The Shining', 45);
+INSERT INTO BOOK(author, name, pages) VALUES ('Mary Shelley', 'Frankenstein', 15);
+INSERT INTO BOOK(author, name, pages) VALUES ('J.R.R. Tolkien', 'The Lord of the Rings', 50);
+INSERT INTO BOOK(author, name, pages) VALUES ('Agatha Christie', 'Murder on the Orient Express', 10);
+INSERT INTO BOOK(author, name, pages) VALUES ('Margaret Atwood', 'The Handmaids Tale', 40);
+INSERT INTO BOOK(author, name, pages) VALUES ('John Steinbeck', 'Of Mice and Men', 30);
+INSERT INTO BOOK(author, name, pages) VALUES ('William Shakespeare', 'Hamlet', 25);
